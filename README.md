@@ -1,4 +1,4 @@
-# Machine Learninh Nanodegree Udacity
+# Machine Learning Nanodegree Udacity
 
 ## Deep Learning Lab
 
