@@ -4,7 +4,7 @@
 
 ### Student-Admissions-in-Keras
 
-Build a neural network which analyzes the dataset of student admissions at UCLA.
+Build a neural network using Keras which analyzes the dataset of student admissions at UCLA.
 
 ### Data Set
 
