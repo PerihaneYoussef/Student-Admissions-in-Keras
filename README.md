@@ -8,7 +8,7 @@ Build a neural network using Keras which analyzes the dataset of student admissi
 
 ### Data Set
 
-Check the attached file "sudent_data.csv"
+Check the attached file "student_data.csv"
 
 The dataset has the following columns:
 
