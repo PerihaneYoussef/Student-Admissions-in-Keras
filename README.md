@@ -6,3 +6,12 @@
 
 Build a neural network which analyzes the dataset of student admissions at UCLA.
 
+### Data Set
+
+Check the attached file "sudent_data.csv"
+
+The dataset has the following columns:
+
+Student GPA (grades)
+Score on the GRE (test)
+Class rank (1-4)
